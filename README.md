@@ -1,4 +1,4 @@
-# 🏠 Neurological Impairment Patient Outcomes
+# 🏠 Neurological Impairment Patient Outcomes for California (2024)
 ## 🎯 Objective <br>
 This project evaluates the distribution of patient acuity in California for 2024 via Glasgow Coma Scale (GCS) scoring to demonstrate how neurological severity directly influences Patient Disposition Outcomes and long-term care requirements. It utilizes California (Department of Health Care Access and Information) HCAI hospital inpatient data to visualize the transition from diagnosis to post-hospital care. <p>
 ## 🛠️ Tools <br>
