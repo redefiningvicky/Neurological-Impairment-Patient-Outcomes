@@ -6,4 +6,4 @@ This project evaluates the distribution of patient acuity in California for 2024
 • <b>Productivity & Collaboration:</b> Microsoft Excel <p>
 ## 🌐 Viz <br>
 This project is a fully functional Viz available at the following link: [View Viz](https://public.tableau.com/views/NeurologicalImpairmentPatientOutcomes/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <p>
-![me](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes/blob/3a9432906d55aa4b1b8d3c03bbfbb102dc1d8284/Neurological_Impairment_Patient_Outcomes.png)
+![me](https://github.com/redefiningvicky/Neurological-Impairment-Patient-Outcomes/blob/5f6dec5367e873b9ff76b5880126d339e11f5a10/Neurological_Impairment_Patient_Outcomes.png)
