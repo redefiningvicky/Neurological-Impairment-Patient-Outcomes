@@ -1,6 +1,6 @@
 # 🏠 Glasgow Coma Scale (GCS) Analysis for California Hospitals (2024)
 ## 🎯 Objective <br>
-This project evaluates the distribution, share, and severity of patient acuity in California for 2024 using Glasgow Coma Scale (GCS) scores. It utilizes inpatient data from the California Department of Health Care Access and Information (HCAI) to visualize the state’s clinical acuity profile. <p>
+This project analyzes the Glasgow Coma Scale (GCS) scores for distribution, share, and severity of patient acuity in California for 2024. Using California Department of Health Care Access and Information (HCAI) hospital inpatient data, the interactive Tableau Viz illustrates the state’s clinical acuity profile. <p>
 ## 🛠️ Tools <br>
 • <b>Design & Visualization:</b> Tableau <p>
 • <b>Productivity & Collaboration:</b> Microsoft Excel <p>
